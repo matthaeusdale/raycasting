@@ -1,2 +1,2 @@
 # raycasting
-Java Swing raycasting simulation
+Java Swing raycasting light source simulation by Matthaeus Dale
