@@ -6,6 +6,8 @@ A simulation of raycasting in 3D with randomized objects.
 - Randomized 3D objects for a different experience each time the simulation is run 
 - Interactive user interface implemented using the Java Swing library 
 
+![alt](https://github.com/matthaeusdale/raycasting/blob/main/raycasting_image.png)
+
 ## Technology Stack
 - Java Swing library 
 
