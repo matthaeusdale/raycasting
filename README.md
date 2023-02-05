@@ -1,4 +1,5 @@
 # Java Swing Raycasting Simulation
+
 A simulation of raycasting a lightsource following your mouse around 3D objects. 
 
 ## Features
