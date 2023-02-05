@@ -1,5 +1,5 @@
 # Java Swing Raycasting Simulation
-A simulation of raycasting in 3D with randomized objects. 
+A simulation of raycasting a lightsource following your mouse with randomized 3D objects. 
 
 ## Features
 - Real-time visualization of raycasting in 3D 
