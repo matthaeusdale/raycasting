@@ -16,3 +16,7 @@ A simulation of raycasting a lightsource following your mouse around 3D objects.
 1. Clone the repository `git clone https://github.com/[YOUR_USERNAME]/Java-Swing-Raycasting-Simulation.git`
 2. Open the project in your preferred IDE 
 3. Build and run the project 
+
+## Controls
+- `r` to create new random objects
+- `2` and `3` to swtich between two- and three-dimensional view
