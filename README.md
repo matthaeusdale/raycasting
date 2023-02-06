@@ -18,5 +18,6 @@ A simulation of raycasting a lightsource following your mouse around 3D objects.
 3. Build and run the project 
 
 ## Controls
+- Use your mouse to control the lightsource
 - `r` to create new random objects
 - `2` and `3` to swtich between two- and three-dimensional view
