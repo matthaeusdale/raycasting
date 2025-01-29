@@ -14,8 +14,11 @@ A simulation of raycasting a lightsource following your mouse around 3D objects.
 
 ## Getting Started
 1. Clone the repository `git clone https://github.com/[YOUR_USERNAME]/Java-Swing-Raycasting-Simulation.git`
-2. Open the project in your preferred IDE 
-3. Build and run the project 
+2. `cd raycasting`
+3. Ensure Java is installed with `java --version`
+4. Enter source code `cd src`
+5. Compile the project with `javac Art.java`
+6. Run with `java Art`!
 
 ## Controls
 - Use your mouse to control the lightsource
